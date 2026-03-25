@@ -7,7 +7,7 @@
 | **Codigo** | EJD-UMA-002 |
 | **Version** | 1.0 |
 | **Referencia** | Ejercicio propuesto por Prof. E. Lopez Rubio — continuacion del EJD-UMA-001 |
-| **Autor** | EH · M.Sc. Inteligencia Artificial — VIU Espana |
+| **Autor** | Edgar O. Herrera Logroño · M.Sc. Inteligencia Artificial — VIU Espana |
 | **Directores** | Prof. Ezequiel Lopez Rubio · Prof. Juan Miguel Ortiz de Lazcano — UMA |
 | **Fecha** | Marzo 2026 |
 
