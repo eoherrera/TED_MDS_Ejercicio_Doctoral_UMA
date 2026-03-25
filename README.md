@@ -96,5 +96,5 @@ Este notebook forma parte del proceso de evaluacion para el ingreso al Programa 
 
 ---
 
-**EH · M.Sc. Inteligencia Artificial — VIU Espana**
+**Edgar O. Herrera Logroño · M.Sc. Inteligencia Artificial — VIU Espana**
 **Analista Senior SGSI — IESS Ecuador · Candidato CRISC — ISACA**
