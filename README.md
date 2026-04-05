@@ -94,7 +94,6 @@ Python 3.12, scikit-learn 1.6, zss 1.2.0 (algoritmo Zhang-Shasha), sklearn.manif
 | EJD-UMA-001 v8.0 | [RF_Federado_Ejercicio_Doctoral_UMA_v8](https://github.com/eoherrera/RF_Federado_Ejercicio_Doctoral_UMA_v8) | Fed-TRUST: Coeficiente de Veracidad V_i y agregacion ponderada |
 | EJD-UMA-002 | Este repositorio | Tree Edit Distance y proyeccion MDS |
 | EJD-UMA-003 | [EJD_UMA_003_NaiveBayes_Federado](https://github.com/eoherrera/EJD_UMA_003_NaiveBayes_Federado) | Clasificador Naive Bayes Federado con mezcla de distribuciones |
-| EJD-UMA-003 v7.1 | [EJD_UMA_003_Variables_Contextuales_CRISC](https://github.com/eoherrera/EJD_UMA_003_Variables_Contextuales_CRISC) | Variables contextuales CRISC en aprendizaje federado |
 
 ---
 
